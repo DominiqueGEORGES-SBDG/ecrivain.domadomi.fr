@@ -1,4 +1,4 @@
-<h1>Domi</h1>
+<h1>Domadomi</h1>
 <?php
 /**
  * Laravel - A PHP Framework For Web Artisans
